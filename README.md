@@ -2,13 +2,11 @@
 
 ¡Bienvenido al Huevo Launcher! 🥚
 
-Este es un launcher personalizado para Minecraft que te permite iniciar el juego con configuraciones personalizadas, mods, y mejoras para que tu experiencia sea mucho más divertida y única.
+Este es un launcher personalizado para el server de minecraft de Huevo
 
 ## Características
 
 - Fácil instalación y uso: Simplemente descarga, instala y ejecuta.
-- Soporte para múltiples versiones de Minecraft: Cambia fácilmente entre versiones oficiales y moddeadas.
-- Gestor de mods integrado: Añade y administra mods sin complicaciones.
 - Configuraciones personalizadas: Ajusta la memoria RAM, resolución y otros parámetros para optimizar el rendimiento.
 - Actualizaciones automáticas: Mantente siempre al día con la última versión del launcher y mods compatibles.
 - Interfaz sencilla y atractiva: Diseñada para ser intuitiva para todo tipo de usuarios.
